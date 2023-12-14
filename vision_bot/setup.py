@@ -20,8 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-                'talker = vision_bot.publisher:main',
-                'listener = vision_bot.subscriber:main',
+                'talker_ras = vision_bot.publisher:main',
+                'listener_ras = vision_bot.subscriber:main',
         ],
 },
 )
