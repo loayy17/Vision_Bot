@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/loay/rasRos2_ws/install/vision_bot/lib/python3.8/site-packages",
+        "/home/loay/loay_ws/install/turtlesim/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/loay/rasRos2_ws/install/vision_bot/lib/python3.8/site-packages",
+        "/home/loay/loay_ws/install/turtlesim/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ]
+}
